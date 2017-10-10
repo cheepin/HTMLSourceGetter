@@ -7,16 +7,17 @@ using System.Net;
 
 namespace HTMLSouceGetter
 {
-	class Program
+	class HTMLSouceGetter
 	{
-		static void Main()
+		static string GetSource()
 		{
-			WebClient webClient = new WebClient();
-			webClient.Encoding = Encoding.UTF8;
+			WebClient webClient = new WebClient
+			{
+				Encoding = Encoding.UTF8
+			};
 			string inputedUrl = Console.ReadLine();
 			string targetSource = webClient.DownloadString(inputedUrl);
-			Console.Write(targetSource);
-			Console.ReadKey();
+			return targetSource;
 			
 		}
 	}

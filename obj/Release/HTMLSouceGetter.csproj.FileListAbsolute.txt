@@ -1,0 +1,7 @@
+C:\Users\fujit\Documents\ConsoleTool_Repo\HTMLSourceGetter\bin\Release\HTMLSouceGetter.dll.config
+C:\Users\fujit\Documents\ConsoleTool_Repo\HTMLSourceGetter\bin\Release\HTMLSouceGetter.dll
+C:\Users\fujit\Documents\ConsoleTool_Repo\HTMLSourceGetter\bin\Release\HTMLSouceGetter.pdb
+C:\Users\fujit\Documents\ConsoleTool_Repo\HTMLSourceGetter\obj\Release\HTMLSouceGetter.csprojResolveAssemblyReference.cache
+C:\Users\fujit\Documents\ConsoleTool_Repo\HTMLSourceGetter\obj\Release\HTMLSouceGetter.csproj.CoreCompileInputs.cache
+C:\Users\fujit\Documents\ConsoleTool_Repo\HTMLSourceGetter\obj\Release\HTMLSouceGetter.dll
+C:\Users\fujit\Documents\ConsoleTool_Repo\HTMLSourceGetter\obj\Release\HTMLSouceGetter.pdb
